@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🏫 Elazığ Fırat Üniversitesi'nde Bilgisayar Mühendisliği okuyorum.<br> 🧑‍💼 Flutter alanında çalışmalarım sayesinde bu alanlardaki bilgileri artırıyorum.
+ Merhaba Ben Abdulkadir Uşakli<br>  🏫 Elazığ Fırat Üniversitesi'nde Bilgisayar Mühendisliği okuyorum.<br> 🧑‍💼 Flutter alanında çalışmalarım sayesinde bu alanlardaki bilgileri artırıyorum.
 
 
 ## 🌐 Socials:
